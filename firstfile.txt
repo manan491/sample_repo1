@@ -1,0 +1,9 @@
+
+
+git init -->  git commit  -->   git push
+<--git pull 
+
+git file status --> git add    ( the status are ether untracked or tracked or staged )
+
+
+git ststus ,  git add ,
