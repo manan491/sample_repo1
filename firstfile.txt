@@ -8,3 +8,4 @@ git file status --> git add    ( the status are ether untracked or tracked or st
 
 git ststus ,  git add ,
  Hello Ehtisham 
+ki haal ji jaagta
